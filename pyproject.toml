@@ -1,0 +1,14 @@
+[project]
+name = "automated-image-table-referencing-app"
+version = "0.1.0"
+description = "Review, renumber, and format Word figure and table captions with optional AI-assisted list editing."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.3",
+    "pillow>=12.2.0",
+    "pywin32>=306; platform_system == 'Windows'",
+    "python-docx>=1.2.0",
+    "streamlit>=1.58.0",
+    "litellm>=1.94.0",
+]
