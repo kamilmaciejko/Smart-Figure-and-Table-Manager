@@ -179,3 +179,6 @@ AI can suggest shorter entries such as **Sales results** and **Profit results**,
 | Provides previews and human approval before changes are saved. | Generated caption paragraphs replace existing inline fields and special formatting with formatted text. |
 | Optional AI can shorten descriptions, remove unnecessary commentary and split clearly described groups. | AI reviews caption text, not image pixels, and its wording still requires human judgment. Hosted providers may charge for requests. |
 | Validates AI output and blocks duplicate requests to reduce accidental token use. | Refresh uses page positions from the uploaded layout; large changes to list length may make refreshed page numbers outdated. |
+
+Author:
+Kamil Maciejko
